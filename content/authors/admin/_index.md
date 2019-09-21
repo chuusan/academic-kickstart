@@ -35,7 +35,7 @@ education:
     year: 2017
   - course: BSc in Artificial Intelligence
     institution: Nanjing Forestry University
-    year: 215
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
